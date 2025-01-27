@@ -12,15 +12,12 @@ public class Main {
         System.out.println("Hola, Karen!");
         String cadenas = "Ivan" + "Isay" + "Guerra"+  "Lopez";
 
-
          /* 
            System.out.println(cadenas.lenght());
         System.out.println(cadenas.substring(2,5));
         System.out.println(cadenas.substring(beginIndex:2));
         System,out.println(cadenas.substring(0,5));
 
-         
-       
         //variables
         int x=5,x2;
 double y=1.25,y2;

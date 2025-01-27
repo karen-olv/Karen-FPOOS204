@@ -8,9 +8,9 @@ double paga;
     public static void main(String[] args) {
         Scanner scanner= new Scanner(System.in);
 
-        System.out.println("Intruduce el numero de horas trabajadas");
+        System.out.println("Intruduce el numero de horas trabajadas:");
         double horastrabajadas = scanner.nextDouble();
-        System.out.println("introduce el costo por hora");
+        System.out.println("introduce el costo por hora:");
         double costo_hora = scanner.nextDouble();
 
         double paga = horastrabajadas * costo_hora;
